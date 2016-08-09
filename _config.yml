@@ -1,0 +1,14 @@
+layout_spectrum: 0.06551307975314558
+typography_spectrum: 0.09270228911191225
+color:
+  brandStrength: 0.347532965708524
+  lightness: 0.7916559064760804
+  saturation: 0.3870807697530836
+  rhythmicContrast: 0.08452055603265762
+  brandColors:
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+name: Freshly Sharpened
